@@ -1,0 +1,103 @@
+﻿<UserControl x:Class="TwoDimensionShapeApp.Views.ToolbarSection"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:wpfToolKit="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:local="clr-namespace:TwoDimensionShapeApp.Views"
+             mc:Ignorable="d"
+             d:DesignHeight="150"
+             d:DesignWidth="800">
+    <Grid Background="#F5F5F5">
+        <Grid Margin="10,0"
+              VerticalAlignment="Center"
+              HorizontalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Column="0"
+                       Text="Stroke Color"
+                       Margin="0,0,5,0"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right" />
+            <wpfToolKit:ColorPicker Grid.Column="1"
+                                    Height="25"
+                                    Width="220"
+                                    SelectedColor="{Binding StrokeColor, UpdateSourceTrigger=PropertyChanged}"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center" />
+
+            <TextBlock Grid.Column="2"
+                       Text="Fill Color"
+                       Margin="30,0,5,0"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right" />
+            <wpfToolKit:ColorPicker Grid.Column="3"
+                                    Height="25"
+                                    Width="220"
+                                    SelectedColor="{Binding FillColor, UpdateSourceTrigger=PropertyChanged}"
+                                    HorizontalAlignment="Left"
+                                    VerticalAlignment="Center" />
+
+            <TextBlock Grid.Column="4"
+                       Text="Selection Criteria"
+                       Margin="30,0,5,0"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Right" />
+            <ComboBox x:Name="itemSelectionCB" Grid.Column="5"
+                      Height="25"
+                      Width="220"
+                      ItemsSource="{Binding Criteria}"
+                      SelectedItem="{Binding Criterium, UpdateSourceTrigger=PropertyChanged}"
+                      HorizontalAlignment="Left"
+                      VerticalAlignment="Center" />
+
+            <StackPanel Grid.Column="6"
+                        Orientation="Vertical"
+                        Margin="30,0,5,0"
+                        VerticalAlignment="Center">
+                <Button Content="Load"
+                        Height="25"
+                        Command="{Binding LoadCommand}"
+                        Width="100" />
+                <Button Content="Save"
+                        Height="25"
+                        Width="100"
+                        Command="{Binding SaveCommand}"
+                        IsEnabled="{Binding IsEnabled,UpdateSourceTrigger=PropertyChanged}"
+                        Margin="0,5,0,0" />
+                
+            </StackPanel>
+            <StackPanel Grid.Column="7"
+                        Orientation="Vertical"
+                        VerticalAlignment="Center">
+                <Button Content="Clear"
+                        Height="25"
+                        Command="{Binding ClearCommand}"
+                        IsEnabled="{Binding IsEnabled,UpdateSourceTrigger=PropertyChanged}"
+                        Width="100" />
+                <Button Content="Delete"
+                        Height="25"
+                        Width="100"
+                        Command="{Binding DeleteCommand}"
+                        IsEnabled="{Binding IsEnabled,UpdateSourceTrigger=PropertyChanged}"
+                        Margin="0,5,0,0" />
+            </StackPanel>
+            
+        </Grid>
+        
+    </Grid>
+
+</UserControl>

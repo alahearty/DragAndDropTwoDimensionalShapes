@@ -1,0 +1,7 @@
+# local env files
+bin
+obj
+
+# Editor directories and files
+*.suo
+*.sln

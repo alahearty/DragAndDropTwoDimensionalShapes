@@ -1,0 +1,57 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Folder Manager\Check Sample\Projects\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Folder Manager\Check Sample\Projects\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\Folder Manager\Check Sample\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Folder Manager\Check Sample\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Folder Manager\Check Sample\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Folder Manager\Check Sample\Projects\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Administrator\source\repos\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Administrator\source\repos\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Administrator\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Administrator\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Administrator\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Wori Hearty Alapher\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Wori Hearty Alapher\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Wori Hearty Alapher\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Wori Hearty Alapher\source\repos\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Wori Hearty Alapher\source\repos\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Wori Hearty Alapher\source\repos\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

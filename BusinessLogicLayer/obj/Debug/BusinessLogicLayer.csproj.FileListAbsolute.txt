@@ -1,0 +1,78 @@
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Prism.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.baml
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.g.cs
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer_MarkupCompile.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.g.resources
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp(1)\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Prism.dll
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.baml
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.g.cs
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer_MarkupCompile.cache
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.g.resources
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\DoItApp\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Prism.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.baml
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.g.cs
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer_MarkupCompile.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.g.resources
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Downloads\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Prism.dll
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.baml
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.g.cs
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer_MarkupCompile.cache
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.g.resources
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\alaper.woriayibapri\Documents\Visual Studio 2017\ArchitectureExplorer\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\Prism.dll
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.baml
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\DragDrop\DropThumb.g.cs
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer_MarkupCompile.cache
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.g.resources
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
