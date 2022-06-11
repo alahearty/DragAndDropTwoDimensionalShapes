@@ -162,38 +162,37 @@ namespace BusinessLogicLayer
                         shape.Id = Guid.NewGuid();
                         var query = "INSERT INTO CanvasShape_tbl (Id,Width,Height,Stroke,Fill,IsSelected,ShapeLeft,ShapeTop,ShapeName) values (@Id,@Width,@Height,@Stroke,@Fill,@IsSelected,@ShapeLeft,@ShapeTop,@ShapeName)";
                         var values = new Dictionary<string, object>
-                    {
-                        { "Id", shape.Id.ToString() },
-                        { "Width", shape.Width },
-                        { "Height", shape.Height },
-                        { "Stroke", shape.Stroke.ToString() },
-                        { "Fill", shape.Fill.ToString() },
-                        { "IsSelected", shape.IsSelected },
-                        { "ShapeLeft", GetLeft(thumb) },
-                        { "ShapeTop", GetTop(thumb) },
-                        { "ShapeName", shape.Name }
-                    };
+                        {
+                            { "Id", shape.Id.ToString() },
+                            { "Width", shape.Width },
+                            { "Height", shape.Height },
+                            { "Stroke", shape.Stroke.ToString() },
+                            { "Fill", shape.Fill.ToString() },
+                            { "IsSelected", shape.IsSelected },
+                            { "ShapeLeft", GetLeft(thumb) },
+                            { "ShapeTop", GetTop(thumb) },
+                            { "ShapeName", shape.Name }
+                        };
                         repo.Add(query, values);
 
                     }
                     else
                     {
                         // Update
-                        shape.Id = Guid.NewGuid();
                         var query = "UPDATE CanvasShape_tbl SET Width = ?, Height =?, Stroke = ?, Fill = ?, IsSelected =?, ShapeLeft =?, ShapeTop = ? ,ShapeName = ? where Id = ?";
 
                         var values = new Dictionary<string, object>
-                    {
-                        { "Id", shape.Id.ToString() },
-                        { "Width", shape.Width },
-                        { "Height", shape.Height },
-                        { "Stroke", shape.Stroke.ToString() },
-                        { "Fill", shape.Fill.ToString() },
-                        { "IsSelected", shape.IsSelected },
-                        { "ShapeLeft", GetLeft(thumb) },
-                        { "ShapeTop", GetTop(thumb) },
-                        { "ShapeName", shape.Name }
-                    };
+                        {
+                            { "Id", shape.Id.ToString() },
+                            { "Width", shape.Width },
+                            { "Height", shape.Height },
+                            { "Stroke", shape.Stroke.ToString() },
+                            { "Fill", shape.Fill.ToString() },
+                            { "IsSelected", shape.IsSelected },
+                            { "ShapeLeft", GetLeft(thumb) },
+                            { "ShapeTop", GetTop(thumb) },
+                            { "ShapeName", shape.Name }
+                        };
 
                         repo.Update(query, values);
                     }
