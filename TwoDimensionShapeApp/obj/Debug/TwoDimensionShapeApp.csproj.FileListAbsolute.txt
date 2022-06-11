@@ -429,3 +429,5 @@ C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDim
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\obj\Debug\TwoDimensionShapeApp.csproj.CopyComplete
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\obj\Debug\TwoDimensionShapeApp.exe
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\obj\Debug\TwoDimensionShapeApp.pdb
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\System.Data.SQLite.xml

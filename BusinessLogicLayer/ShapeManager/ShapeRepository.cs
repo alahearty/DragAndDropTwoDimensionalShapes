@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Data.SQLite;
 using System.Windows.Media;
 
 namespace BusinessLogicLayer.ShapeManager
@@ -11,7 +12,7 @@ namespace BusinessLogicLayer.ShapeManager
         public IList<ShapeBase> GetList()
         {
             var items = new List<ShapeBase>();
-            var cmd = new SqlCommand("select * from CanvasShape_tbl", connection);
+            var cmd = new SQLiteCommand("select * from CanvasShape_tbl", connection);
 
             var reader = cmd.ExecuteReader();
             try
