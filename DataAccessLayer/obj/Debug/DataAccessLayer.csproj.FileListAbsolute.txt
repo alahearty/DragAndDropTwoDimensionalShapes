@@ -55,3 +55,7 @@ C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer
 C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
 C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Wori Hearty Alapher\Desktop\export\TwoDimensionShapeApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
