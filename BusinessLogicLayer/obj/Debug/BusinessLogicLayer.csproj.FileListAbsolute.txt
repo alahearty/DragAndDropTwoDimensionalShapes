@@ -81,6 +81,7 @@ C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDim
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\Prism.dll
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\System.Data.SQLite.dll
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
@@ -92,5 +93,3 @@ C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDim
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
-C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\System.Data.SQLite.dll
-C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\BusinessLogicLayer\bin\Debug\System.Data.SQLite.xml
