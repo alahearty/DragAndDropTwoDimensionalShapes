@@ -183,7 +183,6 @@ namespace BusinessLogicLayer
 
                         var values = new Dictionary<string, object>
                         {
-                            { "Id", shape.Id.ToString() },
                             { "Width", shape.Width },
                             { "Height", shape.Height },
                             { "Stroke", shape.Stroke.ToString() },
@@ -191,7 +190,8 @@ namespace BusinessLogicLayer
                             { "IsSelected", shape.IsSelected },
                             { "ShapeLeft", GetLeft(thumb) },
                             { "ShapeTop", GetTop(thumb) },
-                            { "ShapeName", shape.Name }
+                            { "ShapeName", shape.Name },
+                            { "Id", shape.Id.ToString() },
                         };
 
                         repo.Update(query, values);
@@ -240,7 +240,7 @@ namespace BusinessLogicLayer
                 {
                     var shape = thumb.Shape;
 
-                    if (shape.Id != Guid.Empty)
+                    if (shape.Id != Guid.Empty && shape.IsSelected)
                     {
                         var query = "DELETE FROM CanvasShape_tbl where Id = ?";
                         var values = new Dictionary<string, object>

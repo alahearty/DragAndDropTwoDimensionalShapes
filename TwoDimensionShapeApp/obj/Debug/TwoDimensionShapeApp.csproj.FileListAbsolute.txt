@@ -400,6 +400,7 @@ C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDim
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\Prism.Wpf.dll
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\System.Windows.Interactivity.dll
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\System.Data.SQLite.dll
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\BusinessLogicLayer.pdb
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\DataAccessLayer.pdb
 C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\TwoDimensionShapeApp\bin\Debug\DataAccessLayer.dll.config

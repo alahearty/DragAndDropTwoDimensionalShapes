@@ -27,11 +27,11 @@ namespace TwoDimensionShapeApp.ToolBar
         {
             if (obj.Status == true && obj.Acion == "Delete")
             {
-                MessageBox.Show("Shapes Deleted Successfully");
+                MessageBox.Show("Shape(s) Deleted Successfully");
             }
             else if (obj.Status == true && obj.Acion == "Save")
             {
-                MessageBox.Show("Shapes Saved Successfully");
+                MessageBox.Show("Shape(s) Saved Successfully");
             }
 
         }
@@ -109,7 +109,7 @@ namespace TwoDimensionShapeApp.ToolBar
         private void Delete()
         {
             eventAggregator.GetEvent<DeleteEvent>().Publish();
-            Clear();
+            //Clear();
         }
     }
 }
