@@ -2,25 +2,38 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data.SQLite;
+using System.IO;
 
 namespace DataAccessLayer
 {
     public class Repository<T> : IRepository<T> where T : IEntityBase
     {
 
-
-
         protected SQLiteConnection connection;
-        readonly string connectionStr = @"URI=file:C:\Users\alapher.woriayibapri\Desktop\SEPAL Projects\alahearty\DragAndDropTwoDimensionalShapes\Database\Shape_db.db";
         public Repository()
         {
-            //string connectionStr = Path.GetFullPath("Shape_db.accdb");
-            connection = new SQLiteConnection(connectionStr);
-            //connection.ConnectionString = $"Provider=Microsoft.ACE.OLEDB.12.0;Data Source={connectionStr}";
-            connection.Open();
-
+            DbConnection();
         }
 
+        private void DbConnection()
+        {
+            string filePath = Path.Combine(Environment.CurrentDirectory, "Database", "Shape_db.db").Replace(@"\\", @"\").Replace(@"\TwoDimensionShapeApp\", @"\").Replace(@"\bin\Debug\", @"\");
+            connection = new SQLiteConnection($@"URI=file:{filePath}");
+            connection.Open();
+        }
+
+        private string ConvertPathToUri(string path)
+        {
+            var uri = new Uri(path);
+            return uri.ToString();
+        }
+        /// <summary>
+        /// Add Method for Saving
+        /// </summary>
+        /// <param name="query">sql INSERT Statement</param>
+        /// <param name="values">Fields To Be Saved In key value pair</param>
+        /// <returns></returns>
+        /// <exception cref="Exception"></exception>
         public bool Add(string query, Dictionary<string, object> values)
         {
             bool Status = false;
