@@ -28,7 +28,7 @@ namespace DataAccessLayer
             return uri.ToString();
         }
         /// <summary>
-        /// Add Method for Saving
+        /// Save Entities Method
         /// </summary>
         /// <param name="query">sql INSERT Statement</param>
         /// <param name="values">Fields To Be Saved In key value pair</param>
@@ -56,7 +56,13 @@ namespace DataAccessLayer
             }
             return Status;
         }
-
+        /// <summary>
+        /// Update Entities Method
+        /// </summary>
+        /// <param name="query">Update Query</param>
+        /// <param name="values">Fields to Update In key value pair</param>
+        /// <returns></returns>
+        /// <exception cref="Exception"></exception>
         public bool Update(string query, Dictionary<string, object> values)
         {
             bool Status = false;
@@ -79,6 +85,13 @@ namespace DataAccessLayer
             }
             return Status;
         }
+        /// <summary>
+        /// Delete Entities Method
+        /// </summary>
+        /// <param name="query">Delete Query</param>
+        /// <param name="values">Fields To Be Delete in key value pair</param>
+        /// <returns></returns>
+        /// <exception cref="Exception"></exception>
         public bool Delete(string query, Dictionary<string, object> values)
         {
             bool Status = false;
